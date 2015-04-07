@@ -1,5 +1,6 @@
 WebSaver: A WebKit-based Mac OS X screensaver
-=============================================
+
+—
 
 A Mac OS X screensaver which simply embeds WebKit to display a webpage or JavaScript application. Perfect for Canvas animations.
 
@@ -7,8 +8,7 @@ You can specify a web url as screen saver.
 
 This version includes a simple Preferences sheet.
 
-Instructions
-------------
+**Instructions**
 
 Install the pre-built version of WebSaver by double-clicking "WebSaver/build/Release/Web.saver".
 
@@ -22,13 +22,11 @@ To build from source, do the following:
 
 3. Double-click the built Web.saver to install.
 
-Notes
------
+**Notes**
 
 * Change the "Product Name" in the "Web" target if you are distributing a screensaver to prevent conflicts with others.
 
-License
--------
+**License**
 
 Copyright (c) 2013, Thomas Robinson <http://tlrobinson.net/>
 
